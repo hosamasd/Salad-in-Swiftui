@@ -14,9 +14,9 @@
 		4E3668CE2563EE9E00F313AC /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3668CD2563EE9E00F313AC /* Item.swift */; };
 		4E3668D22563EEB200F313AC /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3668D12563EEB200F313AC /* TabBar.swift */; };
 		4E3668D52563EEBC00F313AC /* TabButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3668D42563EEBC00F313AC /* TabButton.swift */; };
-		4E3668D82563EEC400F313AC /* CustomCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3668D72563EEC400F313AC /* CustomCorner.swift */; };
 		4E3668DB2563EECC00F313AC /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3668DA2563EECC00F313AC /* Home.swift */; };
 		4E3668DE2563EED400F313AC /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3668DD2563EED400F313AC /* CardView.swift */; };
+		4E4A670F2588D86300F8C318 /* CustomCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A670E2588D86300F8C318 /* CustomCorner.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,9 +29,9 @@
 		4E3668CD2563EE9E00F313AC /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		4E3668D12563EEB200F313AC /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 		4E3668D42563EEBC00F313AC /* TabButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabButton.swift; sourceTree = "<group>"; };
-		4E3668D72563EEC400F313AC /* CustomCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCorner.swift; sourceTree = "<group>"; };
 		4E3668DA2563EECC00F313AC /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		4E3668DD2563EED400F313AC /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		4E4A670E2588D86300F8C318 /* CustomCorner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCorner.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,7 +88,7 @@
 			children = (
 				4E3668D12563EEB200F313AC /* TabBar.swift */,
 				4E3668D42563EEBC00F313AC /* TabButton.swift */,
-				4E3668D72563EEC400F313AC /* CustomCorner.swift */,
+				4E4A670E2588D86300F8C318 /* CustomCorner.swift */,
 				4E3668DA2563EECC00F313AC /* Home.swift */,
 				4E3668DD2563EED400F313AC /* CardView.swift */,
 			);
@@ -181,9 +181,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E3668BA2563EE2500F313AC /* ContentView.swift in Sources */,
+				4E4A670F2588D86300F8C318 /* CustomCorner.swift in Sources */,
 				4E3668CE2563EE9E00F313AC /* Item.swift in Sources */,
 				4E3668B82563EE2500F313AC /* SaladApp.swift in Sources */,
-				4E3668D82563EEC400F313AC /* CustomCorner.swift in Sources */,
 				4E3668D52563EEBC00F313AC /* TabButton.swift in Sources */,
 				4E3668D22563EEB200F313AC /* TabBar.swift in Sources */,
 				4E3668DE2563EED400F313AC /* CardView.swift in Sources */,
